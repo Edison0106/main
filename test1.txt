@@ -1,0 +1,10 @@
+aws
+devops
+linux
+edison
+priya
+stephy
+diviya
+balu
+tharun
+yogesh
